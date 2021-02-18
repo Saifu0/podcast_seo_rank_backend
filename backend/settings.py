@@ -27,7 +27,7 @@ SECRET_KEY = '7c+&zbncsf4j1#8kgrw!y!&8ru$dn+t)&5m543m1$=*b()83qu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['127.0.0.1', 'podcast-seo-rank-endpoints.herokuapp.com']
 CORS_ORIGIN_ALLOW_ALL = True
 
 
